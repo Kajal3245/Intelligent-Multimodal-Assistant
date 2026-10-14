@@ -3,10 +3,7 @@ import { useState, useEffect } from "react";
 import "./App.css";
 
 
-const API = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
-
-
-
+const API = "https://intelligent-multimodal-assistant.onrender.com";
 
 export default function Assistant({ initialMode = "chat" }) {
   const [mode, setMode] = useState(initialMode);
