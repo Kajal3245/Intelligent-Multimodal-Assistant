@@ -38,10 +38,12 @@ app = FastAPI(
 )
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
+   allow_origins=[
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "https://omniassist-frontend.vercel.app",
+    "https://app-omni.vercel.app",
+    "https://omniassist-frontend-p07ly80xr-kajal3245s-projects.vercel.app",
 ],
     allow_credentials=True,
     allow_methods=["*"],
