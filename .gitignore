@@ -1,0 +1,22 @@
+
+# Private credentials
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Private database and local files
+backend/history.db
+
+# Deployment tools
+.vercel/
