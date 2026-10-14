@@ -385,7 +385,7 @@ setAnswer(
     <main className="app-shell">
       <aside className="sidebar">
         <div className="brand-mark">✦</div>
-        <h2>OmniAssist</h2>
+       <h2>Intelligent Multi-Modal Virtual Assistant</h2>
         <p className="muted">Multi-Modal AI Assistant</p>
 
         <p className="nav-label">WORKSPACE</p>
