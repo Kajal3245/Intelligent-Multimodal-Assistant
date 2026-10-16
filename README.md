@@ -7,7 +7,6 @@ OmniAssist is an intelligent multi-modal virtual assistant that combines Large L
 The application provides AI-powered conversations, image understanding, object detection, and text-to-speech in English and Hindi.
  ## 🌐 Live Demo
 
-- **Chat:** [https://omniassist-frontend.vercel.app/chat](url)
 - **Detection History:** https://omniassist-frontend.vercel.app/history
 ## 2. Features
 
