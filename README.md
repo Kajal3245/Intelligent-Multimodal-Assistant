@@ -8,8 +8,7 @@ The application provides AI-powered conversations, image understanding, object d
  ## 🌐 Live Demo
 
 - **Chat:** [https://omniassist-frontend.vercel.app/chat](url)
-- **Detection History:**[ https://omniassist-frontend.vercel.app/history](url)
-
+- **Detection History:** https://omniassist-frontend.vercel.app/history
 ## 2. Features
 
 - **AI Chat:** Ask questions and receive AI-generated answers using Google Gemini.
